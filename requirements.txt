@@ -1,0 +1,2 @@
+ # Installs dependencies from ./setup.py, and the package itself in editable mode (see: https://stackoverflow.com/a/49684835).
+ -e .
